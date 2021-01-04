@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # v-input
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-input
+vue 输入框
+>>>>>>> 17696a829a9db9dc80e0670f344585249937286b
