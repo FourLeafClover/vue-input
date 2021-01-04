@@ -5,10 +5,13 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "build:npm": "vue-cli-service build --target lib --name v-input ./src/index.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "less": "^4.0.0",
+    "less-loader": "^7.2.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
